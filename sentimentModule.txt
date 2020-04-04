@@ -1,0 +1,42 @@
+______________New Log____________
+bag of words : create,account,
+Sentiment Result : negative
+Sarcasm Result : negative
+______________New Log____________
+bag of words : way,create,account,
+______________New Log____________
+bag of words : way,create,account,
+______________New Log____________
+bag of words : way,create,account,
+______________New Log____________
+bag of words : way,create,account,
+Sentiment Result : negative
+Sarcasm Result : negative
+______________New Log____________
+bag of words : way,create,account,
+Sentiment Result : negative
+Sarcasm Result : negative
+______________New Log____________
+bag of words : create,account,
+Sentiment Result : positive
+Sarcasm Result : positive
+______________New Log____________
+bag of words : way,create,account,
+Sentiment Result : negative
+Sarcasm Result : negative
+______________New Log____________
+bag of words : account,unknown,activity,
+Sentiment Result : negative
+Sarcasm Result : negative
+______________New Log____________
+bag of words : account,unknown,activity,
+Sentiment Result : positive
+Sarcasm Result : positive
+______________New Log____________
+bag of words : account,unknown,activity,
+Sentiment Result : positive
+Sarcasm Result : positive
+______________New Log____________
+bag of words : ride,accident,complain,serious,
+Sentiment Result : positive
+Sarcasm Result : positive
